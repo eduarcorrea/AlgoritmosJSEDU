@@ -1,0 +1,52 @@
+
+
+section {
+
+    width:100% ;
+    height:100vh;
+    text-align: center ;
+    padding: 100px 0;
+    background: url("../img/paisaje2.avif") ;
+    background-size: cover;
+
+}
+h1{
+ color: blue;
+ font-size: 50px;
+}
+
+button{
+padding: 12px 40px;
+
+background: rgb(149,218,245);
+color: rgb(0,0,0);
+
+margin: 20 px;
+border-radius: 10px;
+text-transform: uppercase;
+border:2px solidcolor;
+cursor:pointer;
+transition: 1.5s;
+
+
+}
+
+button:hover{
+
+    background-color: brown;
+    color: rgb(42, 165, 79);
+    border-radius: 0;
+
+}
+
+footer { center
+p{
+    color: red(0,0,1)
+ font-size: 60px;
+
+}
+background-color: blue;
+  color: red;
+ font-size: 60px;
+}
+
